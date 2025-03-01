@@ -1,6 +1,4 @@
 # Land Registration System with Blockchain  
-## This work was presented at IEEE ICAECC'23 - <a href="https://ieeexplore.ieee.org/document/10560138">Checkout</a>
-<img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ## Project Description:
@@ -83,8 +81,4 @@ View Profile(Before Verification)                  |             Edit Profile(Af
 :---------------------------------:        |      :------------------------------:
 <img src="Screenshots/profile.png" height="200" width="100%">     |<img src="Screenshots/edit profile.png" height="200" width="80%">
 
-### Make sure to star the repository if you find it helpful!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrii14.Land-Registration-with-Blockchain)
-<a href="https://github.com/vrii14/Land-Registration-with-Blockchain/stargazers"><img src="https://img.shields.io/github/stars/vrii14/Land-Registration-with-Blockchain?color=yellow" alt="Stars Badge"/></a>
-<a href="https://github.com/vrii14/Land-Registration-with-Blockchain/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vrii14/Land-Registration-with-Blockchain?color=2b9348"></a>
 
